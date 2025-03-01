@@ -87,7 +87,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>me.dio.project_api_decolatech.ProjectApiDecolatechApplication</mainClass>
+							<mainClass>dio.me.api_decolatech_2025.ApiDecolatech2025Application</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
